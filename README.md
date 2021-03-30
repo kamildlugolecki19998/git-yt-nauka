@@ -1,3 +1,3 @@
 # git-yt-nauka
 
-Testowy tekst do cwiczenia kodu
+Testowy tekst do cwiczenia kodudasdas sds
